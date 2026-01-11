@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-.R
+*.R
 
 # Pastas do RStudio
 .Rproj.user/
