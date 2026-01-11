@@ -1,0 +1,38 @@
+# Arquivos do R
+.Rhistory
+.RData
+.Ruserdata
+.R
+
+# Pastas do RStudio
+.Rproj.user/
+*.Rproj
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos de cache
+cache/
+*.pyc
+__pycache__/
+
+# Arquivos de dados (não subir!)
+*.xlsx
+*.csv
+*.txt
+*.rds
+
+# Arquivos do relatório que você NÃO quer publicar
+*.Rmd
+*.tex
+*.pdf
+*.docx
+
+# Pastas geradas pelo knit
+*_files/
+
+# Arquivos do Google Drive
+*.gsheet
+*.gdoc
+*.gslides
